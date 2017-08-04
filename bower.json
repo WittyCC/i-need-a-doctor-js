@@ -1,0 +1,21 @@
+{
+  "name": "need-doctor",
+  "description": "A website where users may enter a medical issue (ie: “sore throat”, \"rash\", etc.) into a form, submit it, and receive a list of doctors nearby who can treat their medical issue.",
+  "main": "index.js",
+  "authors": [
+    "Witty Chang"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.2.1",
+    "bootstrap": "^3.3.7"
+  }
+}

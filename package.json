@@ -1,0 +1,32 @@
+{
+  "name": "need-doctor",
+  "version": "1.0.0",
+  "description": "A website where users may enter a medical issue (ie: “sore throat”, \"rash\", etc.) into a form, submit it, and receive a list of doctors nearby who can treat their medical issue.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wcchang1382/i-need-a-doctor-js.git"
+  },
+  "author": "Witty Chang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wcchang1382/i-need-a-doctor-js/issues"
+  },
+  "homepage": "https://github.com/wcchang1382/i-need-a-doctor-js#readme",
+  "devDependencies": {
+    "bower-files": "^4.0.0",
+    "browser-sync": "^2.18.13",
+    "browserify": "^14.4.0",
+    "del": "^3.0.0",
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.1",
+    "gulp-jshint": "^2.0.4",
+    "gulp-uglify": "^3.0.0",
+    "gulp-util": "^3.0.8",
+    "jshint": "^2.9.5",
+    "vinyl-source-stream": "^1.1.0"
+  }
+}
