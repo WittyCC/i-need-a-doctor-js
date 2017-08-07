@@ -1,8 +1,6 @@
 # I Need A Doctor
 
-
 #### By _**Witty Chang**_
-
 
 ### Description
 
@@ -35,7 +33,6 @@ Enter the following commands in your terminal:
 * `$ bower install`;
 * `$ gulp serve`;
 
-
 ## Support and contact details
 
 Please feel free to contact wcc1213@gmail.com if you have any questions, issues, concerns, comments or suggestions.
@@ -43,7 +40,7 @@ Please feel free to contact wcc1213@gmail.com if you have any questions, issues,
 ## Technologies Used
 
 * Node Package Manager
-* NPM Packages: Gulp, Browserify, Vinyl-Source-Stream, Gulp-Concat, Gulp-Uglify, Gulp-Util, Del, JSHint, Gulp-JSHint, BrowserSync,
+* NPM Packages: Gulp, Browserify, Vinyl-Source-Stream, Gulp-Concat, Gulp-Uglify, Gulp-Util, Del, JSHint, Gulp-JSHint, and BrowserSync
 * Bower
 * BetterDoctor API
 * JavaScript
