@@ -11,11 +11,11 @@ $(document).ready(function() {
   var newFindHelp = new FindHelp();
   $('#ailment-form').submit(function(event) {
     event.preventDefault();
-    // $('#results').empty();
+    $('#results').empty();
     var symptom = $('#booboo').val();
     console.log(symptom);
     $('#booboo').val("");
     $('#results').show();
-    newFindHelp.getDoctors(booboo, getDoctorList);
+    newFindHelp.getDoctors(symptom, getDoctorList);
   });
 });
